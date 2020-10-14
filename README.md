@@ -32,6 +32,43 @@ I imported data from reputable sources, then I removed unnecessary data such as 
 
 ## Results
 
+![graph](./images/fig3.png)
+The highest-grossing genre was Musical.   
+
+
+![graph](./images/fig4.png)
+Out of the top Musical movies, 4 out of 5 were animated children's fiction movies released in November.  
+
+
+![graph](./images/fig7.png)
+The highest-grossing creative type was super hero.  
+
+
+![graph](./images/fig8.png)
+Out of the top super hero movies, 6 out of 7 were animation/live action and released in April or May.  
+
+
+![graph](./images/fig10.png)
+The highest-grossing production methods were animation/live action and digital animation.  
+
+
+![graph](./images/fig11.png)
+By prioritizing the category of animated movies as a whole, we can include animated musical movies without missing out on important high-grossing attributes.  
+
+
+![graph](./images/fig14.png)
+The best month to release a movie varies greatly depending on the type of movie. For super hero movies, April and May are best. For animated movies, June and November are optimal.  
+
+
+![graph](./images/fig22.png)
+The box office gross tends to increase as the production budget increases. For animated movies, the budget should be between 75 and 200 million dollars.  
+
+
+![graph](./images/fig23.png)
+For super hero movies, the budget should be between 200 and 400 million dollars.  
+
+
+
 The results of my complete analysis were as follows:
 * The genre with the highest gross for the past ten years was Musical genre.
 * The creative type with the highest gross for the past ten years was Super Hero movies.
