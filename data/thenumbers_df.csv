@@ -363,7 +363,7 @@
 361,2013-10-18,2013,12 Years a Slave,Drama,Live Action,Historical Fiction,20000000,56671993,124118763,180790756,October
 362,2013-11-01,2013,Free Birds,Adventure,Digital Animation,Kids Fiction,55000000,55750480,54636592,110387072,November
 363,2013-01-25,2013,Hansel & Gretel: Witch Hunters,Action,Live Action,Contemporary Fiction,50000000,55703475,159246241,214949716,January
-364,2013-04-05,2013,Evil Dead,Horror,Live Action,Fantasy,17000000,54239856,43538500,97778356,April
+364,2013-04-05,2013,Evil Dead,Horror,Live Action,Fantasy,17000000,54239856,44802091,99041947,April
 365,2013-07-19,2013,RED 2,Action,Live Action,Contemporary Fiction,84000000,53262560,88244795,141507355,July
 366,2013-12-13,2013,Tyler Perry's A Madea Christmas,Comedy,Live Action,Contemporary Fiction,25000000,52543354,0,52543354,December
 367,2013-03-29,2013,Tyler Perryâs Temptation,Drama,Live Action,Contemporary Fiction,37000000,51975354,1167790,53143144,March
@@ -408,7 +408,7 @@
 406,2014-06-27,2014,Transformers: Age of Extinction,Action,Animation/Live Action,Science Fiction,210000000,245439076,858614996,1104054072,June
 407,2014-05-30,2014,Maleficent,Adventure,Live Action,Fantasy,180000000,241407328,517129407,758536735,May
 408,2014-05-23,2014,X-Men: Days of Future Past,Action,Live Action,Super Hero,200000000,233921534,513941241,747862775,May
-409,2014-11-07,2014,Big Hero 6,Adventure,Digital Animation,Super Hero,165000000,222527828,428128398,650656226,November
+409,2014-11-07,2014,Big Hero 6,Adventure,Digital Animation,Super Hero,165000000,222527828,427159833,649687661,November
 410,2014-07-11,2014,Dawn of the Planet of the Apes,Adventure,Animation/Live Action,Science Fiction,170000000,208545589,502098977,710644566,July
 411,2014-05-02,2014,The Amazing Spider-Man 2,Action,Live Action,Super Hero,200000000,202853933,506142403,708996336,May
 412,2014-05-16,2014,Godzilla,Action,Live Action,Science Fiction,160000000,200676069,328400000,529076069,May
@@ -599,11 +599,11 @@
 597,2015-08-21,2015,Hitman: Agent 47,Action,Live Action,Contemporary Fiction,35000000,22467450,59715353,82182803,August
 598,2015-01-30,2015,Project Almanac,Adventure,Live Action,Science Fiction,12000000,22348241,10561196,32909437,January
 599,2015-01-30,2015,Black or White,Drama,Live Action,Contemporary Fiction,9000000,21571189,399832,21971021,January
-600,2016-12-16,2016,Rogue One: A Star Wars Story,Adventure,Animation/Live Action,Science Fiction,200000000,532177324,523662069,1055839393,December
+600,2016-12-16,2016,Rogue One: A Star Wars Story,Adventure,Animation/Live Action,Science Fiction,200000000,532177324,522958274,1055135598,December
 601,2016-06-17,2016,Finding Dory,Adventure,Digital Animation,Kids Fiction,200000000,486295561,538710564,1025006125,June
 602,2016-05-06,2016,Captain America: Civil War,Action,Live Action,Super Hero,250000000,408084349,743834172,1151918521,May
-603,2016-07-08,2016,The Secret Life of Pets,Adventure,Digital Animation,Kids Fiction,75000000,368384330,518222082,886606412,July
-604,2016-04-15,2016,The Jungle Book,Adventure,Animation/Live Action,Fantasy,175000000,364001123,596070697,960071820,April
+603,2016-07-08,2016,The Secret Life of Pets,Adventure,Digital Animation,Kids Fiction,75000000,368384330,516918170,885302500,July
+604,2016-04-15,2016,The Jungle Book,Adventure,Animation/Live Action,Fantasy,175000000,364001123,589589469,953590592,April
 605,2016-02-12,2016,Deadpool,Action,Animation/Live Action,Super Hero,58000000,363070709,421954884,785025593,February
 606,2016-03-04,2016,Zootopia,Adventure,Digital Animation,Kids Fiction,150000000,341268248,664712550,1005980798,March
 607,2016-03-25,2016,Batman v Superman: Dawn of Justice,Action,Live Action,Super Hero,263000000,330360194,542034897,872395091,March
@@ -713,7 +713,7 @@
 711,2017-04-14,2017,The Fate of the Furious,Action,Live Action,Contemporary Fiction,250000000,225764765,1010939031,1236703796,April
 712,2017-11-22,2017,Coco,Musical,Digital Animation,Kids Fiction,175000000,210329015,587870055,798199070,November
 713,2017-07-21,2017,Dunkirk,Action,Live Action,Dramatization,150000000,190068280,330087094,520155374,July
-714,2017-02-24,2017,Get Out,Horror,Live Action,Contemporary Fiction,5000000,176040665,76737392,252778057,February
+714,2017-02-24,2017,Get Out,Horror,Live Action,Contemporary Fiction,5000000,176040665,76574494,252615159,February
 715,2017-02-10,2017,The Lego Batman Movie,Adventure,Digital Animation,Kids Fiction,80000000,175750384,134820176,310570560,February
 716,2017-03-31,2017,The Boss Baby,Adventure,Digital Animation,Kids Fiction,125000000,175003033,352962903,527965936,March
 717,2017-12-20,2017,The Greatest Showman,Musical,Live Action,Dramatization,84000000,174340174,263499822,437839996,December
@@ -813,7 +813,7 @@
 811,2018-05-25,2018,Solo: A Star Wars Story,Adventure,Animation/Live Action,Science Fiction,275000000,213767512,179383835,393151347,May
 812,2018-10-05,2018,Venom,Action,Animation/Live Action,Super Hero,116000000,213511408,640117197,853628605,October
 813,2018-11-21,2018,Ralph Breaks The Internet,Adventure,Digital Animation,Kids Fiction,175000000,201091711,328199119,529290830,November
-814,2018-12-14,2018,Spider-Man: Into The Spider-Verse 3D,Adventure,Digital Animation,Super Hero,90000000,190173195,184335749,374508944,December
+814,2018-12-14,2018,Spider-Man: Into The Spider-Verse 3D,Adventure,Digital Animation,Super Hero,90000000,190173195,184867219,375040414,December
 815,2018-04-06,2018,A Quiet Place,Horror,Live Action,Contemporary Fiction,17000000,188024361,147180870,335205231,April
 816,2018-08-15,2018,Crazy Rich Asians,Romantic Comedy,Live Action,Contemporary Fiction,30000000,174532921,63566790,238099711,August
 817,2018-12-19,2018,Mary Poppins Returns,Musical,Animation/Live Action,Kids Fiction,130000000,171958438,177146481,349104919,December
@@ -908,12 +908,12 @@
 906,2019-07-02,2019,Spider-Man: Far From Home,Action,Live Action,Super Hero,160000000,390532085,739418016,1129950101,July
 907,2019-05-24,2019,Aladdin,Adventure,Animation/Live Action,Fantasy,182000000,355559216,691416598,1046975814,May
 908,2019-10-04,2019,Joker,Thriller/Suspense,Live Action,Contemporary Fiction,55000000,335451311,737105360,1072556671,October
-909,2019-12-13,2019,Jumanji: The Next Level,Adventure,Live Action,Science Fiction,125000000,316831246,480202697,797033943,December
+909,2019-12-13,2019,Jumanji: The Next Level,Adventure,Live Action,Science Fiction,125000000,316831246,480832585,797663831,December
 910,2019-09-06,2019,It: Chapter Two,Horror,Live Action,Contemporary Fiction,70000000,211593228,257973578,469566806,September
 911,2019-03-22,2019,Us,Thriller/Suspense,Live Action,Contemporary Fiction,20000000,175084580,81084499,256169079,March
 912,2019-08-02,2019,Fast & Furious Presents: Hobbs & Shaw,Action,Live Action,Contemporary Fiction,200000000,173956935,585808188,759765123,August
 913,2019-05-17,2019,John Wick: Chapter 3 â Parabellum,Action,Live Action,Contemporary Fiction,40000000,171016727,154770095,325786822,May
-914,2019-11-27,2019,Knives Out,Drama,Live Action,Contemporary Fiction,40000000,165364060,145109021,310473081,November
+914,2019-11-27,2019,Knives Out,Drama,Live Action,Contemporary Fiction,40000000,165364060,145434557,310798617,November
 915,2019-02-22,2019,How to Train Your Dragon: The Hidden …,Adventure,Digital Animation,Kids Fiction,129000000,160799505,361340331,522139836,February
 916,2019-12-25,2019,1917,Thriller/Suspense,Live Action,Historical Fiction,100000000,159227644,207444414,366672058,December
 917,2019-06-07,2019,The Secret Life of Pets 2,Adventure,Digital Animation,Kids Fiction,80000000,158874395,275577011,434451406,June
@@ -985,7 +985,7 @@
 983,2019-11-22,2019,21 Bridges,Thriller/Suspense,Live Action,Contemporary Fiction,33000000,28539757,11473888,40013645,November
 984,2019-02-13,2019,Happy Death Day 2U,Thriller/Suspense,Live Action,Contemporary Fiction,9000000,28148130,36538385,64686515,February
 985,2019-07-03,2019,Midsommar,Horror,Live Action,Contemporary Fiction,9000000,27426363,19417067,46843430,July
-986,2019-12-20,2019,Cats,Musical,Animation/Live Action,Fantasy,100000000,27166770,48322489,75489259,December
+986,2019-12-20,2019,Cats,Musical,Animation/Live Action,Fantasy,100000000,27166770,48407539,75574309,December
 987,2019-08-09,2019,The Art of Racing in the Rain,Drama,Live Action,Contemporary Fiction,18000000,26402818,4594209,30997027,August
 988,2019-10-25,2019,Countdown,Horror,Live Action,Contemporary Fiction,6500000,25621766,11200023,36821789,October
 989,2019-09-27,2019,Judy,Drama,Live Action,Dramatization,0,24319961,19578111,43898072,September
@@ -1002,18 +1002,18 @@
 1000,2020-01-17,2020,Bad Boys For Life,Action,Live Action,Contemporary Fiction,90000000,204417855,220108501,424526356,January
 1001,2020-02-14,2020,Sonic The Hedgehog,Adventure,Animation/Live Action,Kids Fiction,90000000,146066470,159062042,305128512,February
 1002,2020-02-07,2020,Birds of Prey (And the Fantabulous Em…,Action,Live Action,Super Hero,82000000,84158461,117700000,201858461,February
-1003,2020-01-17,2020,Dolittle,Adventure,Animation/Live Action,Fantasy,175000000,77047065,172927201,249974266,January
-1004,2020-02-28,2020,The Invisible Man,Horror,Live Action,Science Fiction,7000000,64914050,69857814,134771864,February
+1003,2020-01-17,2020,Dolittle,Adventure,Animation/Live Action,Fantasy,175000000,77047065,173435798,250482863,January
+1004,2020-02-28,2020,The Invisible Man,Horror,Live Action,Science Fiction,7000000,64914050,69860511,134774561,February
 1005,2020-02-21,2020,The Call of the Wild,Adventure,Live Action,Historical Fiction,125000000,62342368,45020147,107362515,February
-1006,2020-03-06,2020,Onward,Adventure,Digital Animation,Kids Fiction,0,61555145,70496055,132051200,March
+1006,2020-03-06,2020,Onward,Adventure,Digital Animation,Kids Fiction,0,61555145,70671737,132226882,March
 1007,2020-09-03,2020,Tenet,Action,Live Action,Science Fiction,224000000,48300000,273880000,322180000,September
 1008,2020-01-24,2020,The Gentlemen,Action,Live Action,Contemporary Fiction,22000000,36471796,75407269,111879065,January
 1009,2020-02-14,2020,Fantasy Island,Horror,Live Action,Contemporary Fiction,7000000,26441782,26651991,53093773,February
 1010,2020-01-10,2020,Like a Boss,Comedy,Live Action,Contemporary Fiction,29000000,22169514,4385281,26554795,January
-1011,2020-08-28,2020,The New Mutants,Horror,Live Action,Super Hero,67000000,22011883,21000000,43011883,August
+1011,2020-08-28,2020,The New Mutants,Horror,Live Action,Super Hero,67000000,22154490,21000000,43154490,August
 1012,2020-01-03,2020,The Grudge,Horror,Live Action,Contemporary Fiction,10000000,21216148,28287117,49503265,January
 1013,2020-02-14,2020,The Photograph,Drama,Live Action,Contemporary Fiction,15000000,20578185,126196,20704381,February
-1014,2020-08-14,2020,Unhinged,Thriller/Suspense,Live Action,Contemporary Fiction,33000000,19376204,10733093,30109297,August
+1014,2020-08-14,2020,Unhinged,Thriller/Suspense,Live Action,Contemporary Fiction,33000000,19515756,11570947,31086703,August
 1015,2020-01-10,2020,Underwater,Thriller/Suspense,Live Action,Science Fiction,65000000,17291078,21903186,39194264,January
 1016,2020-01-24,2020,The Turning,Horror,Live Action,Contemporary Fiction,12000000,15472775,3000000,18472775,January
 1017,2020-01-31,2020,Gretel & Hansel,Horror,Live Action,Historical Fiction,5000000,15347654,6113706,21461360,January
@@ -1021,34 +1021,34 @@
 1019,2020-02-26,2020,Boku no HÄ«rÅ Akademia The Movie HÄ«…,Adventure,Digital Animation,Super Hero,0,13553826,16332524,29886350,February
 1020,2020-02-21,2020,Brahms: The Boy II,Horror,Live Action,Contemporary Fiction,10000000,12611536,6364941,18976477,February
 1021,2020-02-21,2020,Impractical Jokers: The Movie,Comedy,Live Action,Contemporary Fiction,0,10466091,0,10466091,February
-1022,2020-03-13,2020,I Still Believe,Drama,Live Action,Dramatization,0,10410004,5505019,15915023,March
+1022,2020-03-13,2020,I Still Believe,Drama,Live Action,Dramatization,0,10410004,5532882,15942886,March
 1023,2020-02-21,2020,Emma.,Drama,Live Action,Historical Fiction,0,10055355,15609944,25665299,February
 1024,2020-03-13,2020,Bloodshot,Action,Live Action,Super Hero,0,10021787,27295502,37317289,March
 1025,2020-02-14,2020,Downhill,Drama,Live Action,Contemporary Fiction,0,8287061,640113,8927174,February
-1026,2020-01-15,2020,Tenki no Ko,Drama,Digital Animation,Contemporary Fiction,0,7798703,182157356,189956059,January
+1026,2020-01-15,2020,Tenki no Ko,Drama,Digital Animation,Contemporary Fiction,0,7798703,182409466,190208169,January
 1027,2020-03-13,2020,The Hunt,Thriller/Suspense,Live Action,Contemporary Fiction,18200000,5812500,9880858,15693358,March
 1028,2020-01-31,2020,The Rhythm Section,Thriller/Suspense,Live Action,Contemporary Fiction,50000000,5437971,545072,5983043,January
-1029,2020-08-14,2020,The SpongeBob Movie: Sponge on the Run,Adventure,Digital Animation,Kids Fiction,0,4648033,0,4648033,August
-1030,2020-09-11,2020,The Broken Hearts Gallery,Romantic Comedy,Live Action,Contemporary Fiction,0,3948752,633807,4582559,September
-1031,2020-09-18,2020,Infidel,Thriller/Suspense,Live Action,Contemporary Fiction,0,3819991,0,3819991,September
-1032,2020-02-14,2020,Portrait de la jeune fille en feu,Drama,Live Action,Historical Fiction,5360529,3759854,5541677,9301531,February
-1033,2020-10-09,2020,The War with Grandpa,Comedy,Live Action,Contemporary Fiction,0,3620990,1686002,5306992,October
-1034,2020-08-28,2020,Bill & Ted Face the Music,Comedy,Live Action,Science Fiction,25000000,3423653,2340387,5764040,August
+1029,2020-08-14,2020,The SpongeBob Movie: Sponge on the Run,Adventure,Digital Animation,Kids Fiction,0,4664864,0,4664864,August
+1030,2020-10-09,2020,The War with Grandpa,Comedy,Live Action,Contemporary Fiction,0,4355451,1871344,6226795,October
+1031,2020-09-11,2020,The Broken Hearts Gallery,Romantic Comedy,Live Action,Contemporary Fiction,0,3971021,664967,4635988,September
+1032,2020-09-18,2020,Infidel,Thriller/Suspense,Live Action,Contemporary Fiction,0,3865772,0,3865772,September
+1033,2020-02-14,2020,Portrait de la jeune fille en feu,Drama,Live Action,Historical Fiction,5360529,3759854,5541677,9301531,February
+1034,2020-08-28,2020,Bill & Ted Face the Music,Comedy,Live Action,Science Fiction,25000000,3426823,2556782,5983605,August
 1035,2020-01-29,2020,2020 Oscar Shorts,Multiple Genres,Multiple Production Methods,Multiple Creative Types,0,3304748,0,3304748,January
 1036,2020-02-21,2020,Las Pildoras De Mi Novio,Romantic Comedy,Live Action,Contemporary Fiction,0,2971116,3311685,6282801,February
 1037,2020-01-24,2020,The Last Full Measure,Drama,Live Action,Dramatization,20000000,2949212,371899,3321111,January
 1038,2020-08-21,2020,Words on Bathroom Walls,Drama,Live Action,Contemporary Fiction,9300000,2504744,0,2504744,August
 1039,2020-02-07,2020,The Lodge,Horror,Live Action,Contemporary Fiction,0,2138907,951806,3090713,February
-1040,2020-08-28,2020,The Personal History of David Copperf…,Drama,Live Action,Dramatization,15600000,1865492,10461918,12327410,August
-1041,2020-05-01,2020,The Wretched,Horror,Live Action,Contemporary Fiction,66000,1815440,1859389,3674829,May
-1042,2020-07-24,2020,The Rental,Thriller/Suspense,Live Action,Contemporary Fiction,0,1637503,350906,1988409,July
-1043,2020-09-11,2020,After We Collided,Drama,Live Action,Contemporary Fiction,0,1199425,33180550,34379975,September
+1040,2020-08-28,2020,The Personal History of David Copperf…,Drama,Live Action,Dramatization,15600000,1867553,10518623,12386176,August
+1041,2020-05-01,2020,The Wretched,Horror,Live Action,Contemporary Fiction,66000,1815440,2007758,3823198,May
+1042,2020-07-24,2020,The Rental,Thriller/Suspense,Live Action,Contemporary Fiction,0,1637503,463991,2101494,July
+1043,2020-09-11,2020,After We Collided,Drama,Live Action,Contemporary Fiction,0,1199425,34518105,35717530,September
 1044,2020-08-07,2020,Ban-do,Horror,Live Action,Science Fiction,16000000,1186266,31657673,32843939,August
 1045,2020-02-29,2020,Met Opera â Agrippina,Concert/Performance,Live Action,Historical Fiction,0,1150000,292512,1442512,February
 1046,2020-01-31,2020,The Assistant,Drama,Live Action,Contemporary Fiction,1780000,1100310,240093,1340403,January
 1047,2020-07-03,2020,Relic,Thriller/Suspense,Live Action,Contemporary Fiction,0,1047083,407611,1454694,July
-1048,2020-06-05,2020,Becky,Thriller/Suspense,Live Action,Contemporary Fiction,0,1002852,59111,1061963,June
-1049,2020-09-24,2020,Beureikeu deo sa illeonseu,Documentary,Live Action,Factual,0,1000000,9406037,10406037,September
+1048,2020-06-05,2020,Becky,Thriller/Suspense,Live Action,Contemporary Fiction,0,1002852,60371,1063223,June
+1049,2020-09-24,2020,Beureikeu deo sa illeonseu,Documentary,Live Action,Factual,0,1000000,9531652,10531652,September
 1050,2020-08-07,2020,The Tax Collector,Action,Live Action,Contemporary Fiction,30000000,942666,0,942666,August
 1051,2020-01-11,2020,Met Opera: Wozzeck,Concert/Performance,Live Action,Historical Fiction,0,863000,166603,1029603,January
 1052,2020-07-31,2020,Cut Throat City,Drama,Live Action,Historical Fiction,8000000,832432,8903,841335,July
@@ -1056,46 +1056,46 @@
 1054,2020-01-24,2020,Color Out of Space,Horror,Live Action,Science Fiction,0,765561,302086,1067647,January
 1055,2020-09-25,2020,Shortcut,Horror,Live Action,Science Fiction,0,758223,0,758223,September
 1056,2020-03-06,2020,Baaghi 3,Action,Live Action,Contemporary Fiction,0,721439,572100,1293539,March
-1057,2020-09-25,2020,The Last Shift,Comedy,Live Action,Contemporary Fiction,0,607831,0,607831,September
+1057,2020-09-25,2020,The Last Shift,Comedy,Live Action,Contemporary Fiction,0,615261,0,615261,September
 1058,2020-01-10,2020,Chhapaak,Drama,Live Action,Dramatization,0,604334,318323,922657,January
 1059,2020-01-24,2020,Panga,Drama,Live Action,Contemporary Fiction,0,582720,143345,726065,January
 1060,2020-06-19,2020,Followed,Horror,Live Action,Contemporary Fiction,0,538179,0,538179,June
-1061,2020-07-24,2020,The Big Ugly,Action,Live Action,Contemporary Fiction,0,514107,1292,515399,July
-1062,2020-10-02,2020,Possessor,Thriller/Suspense,Live Action,Science Fiction,0,510107,0,510107,October
-1063,2020-09-25,2020,Kajillionaire,Drama,Live Action,Contemporary Fiction,0,492050,0,492050,September
+1061,2020-10-02,2020,Possessor,Thriller/Suspense,Live Action,Science Fiction,0,536433,0,536433,October
+1062,2020-07-24,2020,The Big Ugly,Action,Live Action,Contemporary Fiction,0,514107,1292,515399,July
+1063,2020-09-25,2020,Kajillionaire,Drama,Live Action,Contemporary Fiction,0,502775,113389,616164,September
 1064,2020-02-21,2020,CatVideoFest,Documentary,Live Action,Multiple Creative Types,0,478775,35370,514145,February
-1065,2020-02-21,2020,Once Were Brothers: Robbie Robertson …,Documentary,Live Action,Factual,0,449561,107388,556949,February
-1066,2020-02-21,2020,Seberg,Thriller/Suspense,Live Action,Dramatization,8000000,448009,404093,852102,February
-1067,2020-06-12,2020,Infamous,Action,Live Action,Contemporary Fiction,0,429148,0,429148,June
-1068,2020-09-18,2020,Alone,Thriller/Suspense,Live Action,Contemporary Fiction,0,428111,27025,455136,September
-1069,2020-08-21,2020,Tulsa,Comedy,Live Action,Contemporary Fiction,0,380466,0,380466,August
-1070,2020-09-25,2020,Ava,Action,Live Action,Contemporary Fiction,0,377037,1721097,2098134,September
+1065,2020-09-18,2020,Alone,Thriller/Suspense,Live Action,Contemporary Fiction,0,464979,27025,492004,September
+1066,2020-02-21,2020,Once Were Brothers: Robbie Robertson …,Documentary,Live Action,Factual,0,449561,107388,556949,February
+1067,2020-02-21,2020,Seberg,Thriller/Suspense,Live Action,Dramatization,8000000,448009,404093,852102,February
+1068,2020-06-12,2020,Infamous,Action,Live Action,Contemporary Fiction,0,429148,0,429148,June
+1069,2020-09-25,2020,Ava,Action,Live Action,Contemporary Fiction,0,422550,1721097,2143647,September
+1070,2020-08-21,2020,Tulsa,Comedy,Live Action,Contemporary Fiction,0,380466,0,380466,August
 1071,2020-02-28,2020,Greed,Comedy,Live Action,Contemporary Fiction,0,355308,1062148,1417456,February
 1072,2020-02-19,2020,"Kimi to, nami ni noretara",Comedy,Digital Animation,Contemporary Fiction,0,332432,3669430,4001862,February
-1073,2020-01-10,2020,Les misÃ©rables,Drama,Live Action,Dramatization,0,330181,18461209,18791390,January
+1073,2020-01-10,2020,Les misÃ©rables,Drama,Live Action,Dramatization,0,330181,18464132,18794313,January
 1074,2020-02-14,2020,Ordinary Love,Drama,Live Action,Contemporary Fiction,0,323688,376138,699826,February
-1075,2020-01-31,2020,Il Traditore,Drama,Live Action,Dramatization,0,296027,8578283,8874310,January
-1076,2020-01-31,2020,Created Equal: Clarence Thomas in His…,Documentary,Live Action,Factual,0,282149,0,282149,January
-1077,2020-10-02,2020,The Call,Horror,Live Action,Contemporary Fiction,0,277318,0,277318,October
-1078,2020-02-14,2020,"Mafia, Inc.",Drama,Live Action,Contemporary Fiction,0,264552,0,264552,February
-1079,2020-10-02,2020,Save Yourselves!,Comedy,Live Action,Science Fiction,0,256395,0,256395,October
-1080,2020-09-16,2020,The Secrets We Keep,Thriller/Suspense,Live Action,Historical Fiction,0,231119,19229,250348,September
-1081,2020-01-29,2020,Dylda,Drama,Live Action,Historical Fiction,0,196258,1333549,1529807,January
-1082,2020-02-12,2020,The Doors: Break on Thru â A Celebr…,Documentary,Live Action,Factual,0,186920,0,186920,February
-1083,2020-10-01,2020,Jiang Ziya,Adventure,Digital Animation,Kids Fiction,0,179320,211965686,212145006,October
-1084,2020-02-07,2020,And Then We Danced,Drama,Live Action,Contemporary Fiction,0,177262,403039,580301,February
-1085,2020-10-08,2020,Yellow Rose,Drama,Live Action,Contemporary Fiction,0,170168,0,170168,October
+1075,2020-01-31,2020,Il Traditore,Drama,Live Action,Dramatization,0,296027,8611023,8907050,January
+1076,2020-10-02,2020,The Call,Horror,Live Action,Contemporary Fiction,0,291594,0,291594,October
+1077,2020-01-31,2020,Created Equal: Clarence Thomas in His…,Documentary,Live Action,Factual,0,282149,0,282149,January
+1078,2020-10-02,2020,Save Yourselves!,Comedy,Live Action,Science Fiction,0,269061,0,269061,October
+1079,2020-02-14,2020,"Mafia, Inc.",Drama,Live Action,Contemporary Fiction,0,264552,0,264552,February
+1080,2020-09-16,2020,The Secrets We Keep,Thriller/Suspense,Live Action,Historical Fiction,0,231119,22036,253155,September
+1081,2020-10-08,2020,Yellow Rose,Drama,Live Action,Contemporary Fiction,0,210866,0,210866,October
+1082,2020-01-29,2020,Dylda,Drama,Live Action,Historical Fiction,0,196258,1333549,1529807,January
+1083,2020-02-12,2020,The Doors: Break on Thru â A Celebr…,Documentary,Live Action,Factual,0,186920,0,186920,February
+1084,2020-10-01,2020,Jiang Ziya,Adventure,Digital Animation,Kids Fiction,0,179320,219756184,219935504,October
+1085,2020-02-07,2020,And Then We Danced,Drama,Live Action,Contemporary Fiction,0,177262,403039,580301,February
 1086,2020-03-06,2020,Extra Ordinary,Horror,Live Action,Contemporary Fiction,0,164346,59367,223713,March
 1087,2020-09-18,2020,Follow Me,Horror,Live Action,Contemporary Fiction,0,149458,2676027,2825485,September
-1088,2020-03-06,2020,The Burnt Orange Heresy,Thriller/Suspense,Live Action,Contemporary Fiction,0,144201,349235,493436,March
-1089,2020-02-28,2020,Wendy,Drama,Live Action,Fantasy,0,143518,1776,145294,February
+1088,2020-03-06,2020,The Burnt Orange Heresy,Thriller/Suspense,Live Action,Contemporary Fiction,0,144201,356029,500230,March
+1089,2020-02-28,2020,Wendy,Drama,Live Action,Fantasy,0,143518,29590,173108,February
 1090,2020-01-31,2020,Incitement,Thriller/Suspense,Live Action,Dramatization,0,140306,0,140306,January
 1091,2020-07-10,2020,Archive,Drama,Live Action,Science Fiction,0,139593,85235,224828,July
 1092,2020-02-28,2020,Burden,Drama,Live Action,Dramatization,0,139270,300609,439879,February
 1093,2020-03-06,2020,Beneath Us,Horror,Live Action,Contemporary Fiction,0,137260,0,137260,March
-1094,2020-09-18,2020,The Nest,Drama,Live Action,Historical Fiction,0,136585,159941,296526,September
+1094,2020-09-18,2020,The Nest,Drama,Live Action,Historical Fiction,0,136585,230077,366662,September
 1095,2020-02-14,2020,The Times of Bill Cunningham,Documentary,Live Action,Factual,0,134288,0,134288,February
 1096,2020-02-28,2020,Saint Frances,Multiple Genres,Live Action,Contemporary Fiction,0,127275,14923,142198,February
-1097,2020-02-14,2020,Corpus Christi,Drama,Live Action,Contemporary Fiction,0,127240,8719559,8846799,February
-1098,2020-01-24,2020,Namsaneui Bujangdeul,Thriller/Suspense,Live Action,Contemporary Fiction,0,113527,34843440,34956967,January
-1099,2020-03-06,2020,Hope Gap,Drama,Live Action,Contemporary Fiction,0,104732,595682,700414,March
+1097,2020-02-14,2020,Corpus Christi,Drama,Live Action,Contemporary Fiction,0,127240,8803400,8930640,February
+1098,2020-10-09,2020,The Wolf of Snow Hollow,Horror,Live Action,Contemporary Fiction,0,116967,0,116967,October
+1099,2020-01-24,2020,Namsaneui Bujangdeul,Thriller/Suspense,Live Action,Contemporary Fiction,0,113527,34843440,34956967,January
