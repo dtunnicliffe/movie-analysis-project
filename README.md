@@ -134,6 +134,7 @@ For any additional questions, please contact **Diane Tunnicliffe** at diane.j.tu
 ├── README.md                        <- The top-level README for reviewers of this project
 ├── microsoft_movie_analysis.ipynb   <- Narrative documentation of analysis in Jupyter notebook
 ├── movie_analysis_slides.pdf        <- PDF version of project presentation
+├── movie_notebook.pdf               <- PDF version of Jupyter notebook
 ├── data                             <- Both sourced externally and generated from code
 └── images                           <- Both sourced externally and generated from code
 ```
